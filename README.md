@@ -1,6 +1,6 @@
 # matrix+
 
-Реализация библиотеки s21_matrix_oop.h
+Реализация библиотеки matrix_oop.h
 
 
 ## Contents
